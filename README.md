@@ -6,5 +6,5 @@ Hello world : )
 List of files to go into rstudio repository:
 ===========================================
 
-Dworkin stats course R scripts
-Burmeister 2014 fitness analysis
+Dworkin stats course R scripts r\
+Burmeister 2014 fitness analysis r\
